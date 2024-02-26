@@ -1,1 +1,1 @@
-Brain Tumor Detection using image processing using deep learning
+Brain Tumor Detection using image processing in deep learning
